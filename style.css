@@ -1,0 +1,22 @@
+#myCanvas {
+    border : 7px solid grey;
+    border-style : ridge;
+    background-color : white;
+  }
+  h1 {
+    color : "black";
+  }
+  .body_background {
+    background : URL("Bg.jpg");
+      background-size:cover;
+  }
+  p {
+    color: black;
+  }
+  #btn_clear {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color:deepskyblue;
+    color: black;
+    width: 400px;
+  }  
